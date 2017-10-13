@@ -54,7 +54,7 @@ Remember to be mindful of where you are in your computer, because the notebook w
 Now we create an instance that will allow us to create a notebook!
 ## Windows
 
-	python -m jupyter
+	python -m notebook
 
 ## MacOS
 
