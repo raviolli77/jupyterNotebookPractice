@@ -20,7 +20,7 @@ You can exit now by doing:
 
 For windows an extra step is needed for your command prompt to recognize the `python` command. Press the `windows` button and search **enviroment**, you should see `Edit the system Environment Variables`, click on it. Next on the lower left side you'll see a button called **Environment Variables...** click on it and click **New** on the **User** variables. 
 
-The **Variable Name** should be called `PYTHONPATH` and the value should be where `python.exe` is located (I would just search python.exe and right click to get the file location). 
+The **Variable Name** should be called `PYTHONPATH` and the value should be where `python.exe` is located (I would just search python.exe and right click to get the file location it should look like this `C:\Users\reulogio\AppData\Local\Programs\Python\Python35-32\python.exe`). 
 
 Click ok, close the command prompt and open a new one. You should now be able to utilize **Python3.X** on your command prompt. 
 
